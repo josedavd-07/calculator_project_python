@@ -1,0 +1,18 @@
+# Ignorar archivos generados por Python
+__pycache__/
+.pyc
+.pyo
+bin/
+lib/
+include/
+pip-selfcheck.json
+
+# Ignorar archivos de entorno virtual (venv o virtualenv)
+venv/
+env/
+
+# Ignorar archivos de registro y caché
+.log
+.swp
+.swo
+.idea
