@@ -10,3 +10,4 @@ En este proyecto encontraremos un ejercicio sencillo de python sobre lo aprendid
 - import de colorama y uso de colores en impresion de resultados.
 - f - string
 - concatenaciones y comentarios.
+- uso de funciones con parametros de entrada.
